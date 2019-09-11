@@ -1,4 +1,4 @@
-﻿/*================================= 
+﻿/*=================================
         Font-Family's Start
   =================================*/
 @font-face {
@@ -9,11 +9,11 @@
 
 
 /*
-    
+
     font-family: 'Montserrat', sans-serif;
 
 */
-/*================================= 
+/*=================================
         Font-Family's End
   =================================*/
 html, body {
@@ -26,7 +26,7 @@ html, body {
 }
 
 
-/*================================= 
+/*=================================
     Navbar Section Styling
   =================================*/
 
@@ -204,7 +204,7 @@ html, body {
 }
 
 
-/*================================= 
+/*=================================
        Abuot Section Styling
   =================================*/
 .about-heading-text {
@@ -286,7 +286,7 @@ html, body {
     background: #19600f;
     color: #ffffff;
 }
-/*================================= 
+/*=================================
       Services Section Styling
   =================================*/
 .what-text {
@@ -370,7 +370,7 @@ html, body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-1%, -16%);
 }
-/*================================= 
+/*=================================
       Plants Section Styling
   =================================*/
 .image-hover:hover {
@@ -387,7 +387,7 @@ html, body {
     text-transform: capitalize;
     font-family: 'Montserrat', sans-serif;
 }
-/*================================= 
+/*=================================
      Client Section Styling
   =================================*/
 #client-banner {
@@ -451,7 +451,7 @@ html, body {
 
 
 
-/*================================= 
+/*=================================
       Contact Section Styling
   =================================*/
 #contact {
@@ -546,7 +546,7 @@ html, body {
 
 
 
-/*================================= 
+/*=================================
           Read More Styling
   =================================*/
 .comments-space {
@@ -1289,7 +1289,7 @@ button:focus {
     }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 993px) {
     .d-logo {
         display: none;
     }
@@ -1360,7 +1360,7 @@ button:focus {
 @media screen and (max-width: 800px) {
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
     .d-logo {
         display: none;
     }
@@ -1428,7 +1428,7 @@ button:focus {
     }
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 415px) {
     .content-setting {
         padding: 150px 0;
     }
@@ -1514,7 +1514,7 @@ button:focus {
 @media screen and (max-width: 375px) {
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 361px) {
     #home .main-banner-text {
         font-size: 26px;
     }
@@ -1535,7 +1535,7 @@ button:focus {
 @media screen and (max-width: 1024px) and (orientation: landscape) {
 }
 
-@media screen and (max-width: 823px) and (orientation: landscape) {
+@media screen and (max-width: 825px) and (orientation: landscape) {
     #home .main-banner-text {
         font-size: 32px;
     }
@@ -1556,7 +1556,7 @@ button:focus {
 @media screen and (max-width: 812px) and (orientation: landscape) {
 }
 
-@media screen and (max-width: 740px) and (orientation: landscape) {
+@media screen and (max-width: 741px) and (orientation: landscape) {
     #client-banner {
         padding: 100px 21px 60px 21px;
     }
